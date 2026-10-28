@@ -163,5 +163,5 @@ customer-shopping-behavior-analysis/
 
 ## Author
 
-**Your Name**
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username) | your.email@example.com
+Ammar Ali Khan
+[LinkedIn](www.linkedin.com/in/ammar0991) | [GitHub](https://github.com/ammar6l35))
